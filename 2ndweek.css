@@ -80,3 +80,10 @@ width: 100%;
     margin-left: 20px;
     
 }
+
+.button2 {
+    background-color:#dff5f2;
+    font-family: "Arial Black";
+    text-align: center;
+    border-width: 0px;
+}
